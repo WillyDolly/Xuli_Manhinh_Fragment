@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Xuli_Manhinh_Fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="book1">Brief History Of Time</string>
+    <string name="des1">History of scientific discovery from  ancient Greek to modern age</string>
+    <string name="book2">How to win friends and influence people</string>
+    <string name="des2">profound lessons teaching you how to treat people</string>
+    <string name="book3">The Universe in the nutshell</string>
+    <string name="des3">a voyage through all dimensions of our universe </string>
+</resources>
